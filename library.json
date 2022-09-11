@@ -1,0 +1,30 @@
+{
+    "name": "TcMenuNetLwIP",
+    "keywords": "menu, IoT, ethernet, lwip",
+    "description": "Network driver for tcMenu supporting LwIP",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/davetcc/TcMenuNetLwIP"
+    },
+    "authors":
+    [
+      {
+        "name": "DaveTcc",
+        "url": "https://www.thecoderscorner.com",
+        "maintainer": true
+      }
+    ],
+    "dependencies":
+    [
+      {
+        "name": "tcMenu",
+        "authors": "DaveTCC"
+      }
+    ],
+    "version": "0.1.0",
+    "license": "Apache-2.0",
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
+  
