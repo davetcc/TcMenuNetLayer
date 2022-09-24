@@ -1,10 +1,10 @@
 
 #include <Arduino.h>
 #include <tcMenu.h>
-#include <remote/TransportNetworkDriver.h>
+#include "TransportNetworkDriver.h"
 #include <TaskManager.h>
 #include "IoLogging.h"
-#include "TcNetESP32Extra.h"
+#include "esp32lwip/TcNetESP32Extra.h"
 
 using namespace tcremote;
 

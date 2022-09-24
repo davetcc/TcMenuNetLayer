@@ -31,6 +31,6 @@
 #define MAX_SEND_PER_PACKET 500
 #endif //MAX_SEND_PER_PACKET
 
-#include <remote/TransportNetworkDriver.h>
+#include "TransportNetworkDriver.h"
 
 #endif //TCLIBRARYDEV_TCMENUNETLAYER_H

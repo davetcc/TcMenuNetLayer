@@ -13,7 +13,7 @@
 #include <Arduino.h>
 #ifdef ESP32
 
-#include "remote/TransportNetworkDriver.h"
+#include "TransportNetworkDriver.h"
 
 namespace tcremote {
     /**

@@ -4,7 +4,7 @@
  */
 
 #include "TcLwIPTransport.h"
-#include <remote/TransportNetworkDriver.h>
+#include "TransportNetworkDriver.h"
 
 using namespace tcremote;
 

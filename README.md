@@ -1,5 +1,7 @@
-# TcMenu LwIP network library.
+# TcMenu LwIP and driver network library. For EXPERIMENTAL use only
 
+**EXPERIMENTAL and not intended to be used outside of development at the moment.** 
+ 
 ## Summary
 
 Dave Cherry / TheCodersCorner.com make this framework available for you to use. It takes me significant effort to keep all my libraries current and working on a wide range of boards. Please consider making at least a one off donation via the sponsor button if you find it useful.

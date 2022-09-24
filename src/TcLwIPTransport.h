@@ -12,7 +12,7 @@
 #define TCLIBRARYDEV_TCLWIPTRANSPORT_H
 
 #include <RemoteConnector.h>
-#include <remote/TransportNetworkDriver.h>
+#include "TransportNetworkDriver.h"
 
 namespace tcremote {
 
