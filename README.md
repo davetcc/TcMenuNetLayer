@@ -4,7 +4,7 @@
  
 ## Summary
 
-Dave Cherry / TheCodersCorner.com make this framework available for you to use. It takes me significant effort to keep all my libraries current and working on a wide range of boards. Please consider making at least a one off donation via the sponsor button if you find it useful.
+Dave Cherry / TheCodersCorner.com made this framework available for you to use. It takes me significant effort to keep all my libraries current and working on a wide range of boards. Please consider making at least a one off donation via the sponsor button if you find it useful.
 
 TcMenu LwIP Network library is part of the tcMenu solution for the Arduino and mbed platform, see the main library https://github.com/davetcc/tcMenu for more information.
 
